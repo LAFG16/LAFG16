@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LAFG16
+- 👀 I’m interested in work with code
+- 🌱 I’m currently learning data science
+- 📫 How to reach me: luisfg20@gmail.com
