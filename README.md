@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on improving my skills.
 
+- 👯 I’m looking to collaborate on news projects
+
 - 👨‍💻 All of my projects are available at [https://github.com/LAFG16](https://github.com/LAFG16)
 
 - 💬 Ask me about **Python, Data analysis, Machine learning, Data visualization**
